@@ -1,5 +1,5 @@
 # Hi, I'm Thanmayi 👋
-
+mul.py
 🚀 Passionate about coding, problem-solving, and learning new technologies.  
 🎯 Currently exploring **DevOps & Full-Stack Development**.  
 🌱 Always eager to contribute to open-source projects.
